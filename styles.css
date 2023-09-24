@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 .boxmain{
+	flex-wrap:wrap;
 	display:flex;
 	flex-direction:row;
 	justify-content:space-between;
@@ -34,7 +35,7 @@
 /* 	flex-direction:row; */
 	justify-content:space-between;
 /* 	background-color:aqua; */
-	flex:wrap;
+	flex-wrap:wrap;
 	
 }
 #box1{
