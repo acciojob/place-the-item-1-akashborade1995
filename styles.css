@@ -1,2 +1,95 @@
 
 /* Your CSS Code here. */
+.boxmain{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+/* 	background-color:aqua; */
+	
+}
+#a3{
+	color:black;
+	background-color:green;
+	width:100px;
+	height:100px;
+	font-size:40px
+/* 	text-align:center; */
+}
+#b1{
+	color:black;
+	background-color:red;
+	width:100px;
+	height:100px;
+	font-size:40px
+}
+#c2{
+	color:black;
+	background-color:blue;
+	width:100px;
+	height:100px;
+	font-size:40px
+}
+.flex{
+	display:flex;
+/* 	flex-direction:row; */
+	justify-content:space-between;
+/* 	background-color:aqua; */
+	flex:wrap;
+	
+}
+#box1{
+	color:black;
+	background-color:red;
+	width:100px;
+	height:100px;
+	font-size:40px
+/* 	text-align:center; */
+}
+#box2{
+	color:black;
+	background-color:blue;
+	width:100px;
+	height:100px;
+	font-size:40px
+/* 	text-align:center; */
+}
+#box3{
+	color:black;
+	background-color:green;
+	width:100px;
+	height:100px;
+	font-size:40px
+/* 	text-align:center; */
+}
+#box4{
+	color:black;
+	background-color:green;
+	width:100px;
+	height:100px;
+	font-size:40px
+/* 	text-align:center; */
+}
+#box5{
+	color:black;
+	background-color:green;
+	width:100px;
+	height:100px;
+	font-size:40px
+/* 	text-align:center; */
+}
+#box6{
+	color:black;
+	background-color:green;
+	width:100px;
+	height:100px;
+	font-size:40px
+/* 	text-align:center; */
+}
+#box7{
+	color:black;
+	background-color:green;
+	width:100px;
+	height:100px;
+	font-size:40px
+/* 	text-align:center; */
+}
